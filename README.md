@@ -1,4 +1,4 @@
-# AI-Agent-Tool: Website and LinkedIn Summarization with Ollama (Mistral Model)
+# Autonomous Data Extraction from Web and Public Sources Using Agentic AI and Large Language Models (LLMs)
 
 This project scrapes a company's website and a LinkedIn profile, then summarizes both contents using a local LLM (Mistral) via Ollama.
 
@@ -66,4 +66,4 @@ This project scrapes a company's website and a LinkedIn profile, then summarizes
 
 ---
 
-# Thank you! 🚀
+# Created by Noor uddin noor.cs2@yahoo.com Thank you! 🚀
